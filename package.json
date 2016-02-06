@@ -1,5 +1,5 @@
 {
-	"name":             "pattern-lab/starterkit-mustache-foundation",
+	"name":             "pattern-lab-starterkit-mustache-foundation",
 	"description":      "The Mustache-based Foundation StarterKit for Pattern Lab.",
 	"keywords":         ["mustache", "pattern lab", "starterkit", "foundation"],
 	"homepage":         "http://patternlab.io",
