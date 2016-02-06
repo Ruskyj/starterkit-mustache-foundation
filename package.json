@@ -1,6 +1,7 @@
 {
 	"name":             "pattern-lab-starterkit-mustache-foundation",
 	"description":      "The Mustache-based Foundation StarterKit for Pattern Lab.",
+	"version":	    "1.0.0",
 	"keywords":         ["mustache", "pattern lab", "starterkit", "foundation"],
 	"homepage":         "http://patternlab.io",
 	"license":          "MIT",
